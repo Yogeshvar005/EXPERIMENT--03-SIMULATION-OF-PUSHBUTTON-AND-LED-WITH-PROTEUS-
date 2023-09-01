@@ -49,7 +49,7 @@ interfaces Datasheet - production data Features
 ![image](https://user-images.githubusercontent.com/36288975/226189425-2b2414ce-49b3-4b61-a260-c658cb2e4152.png)
 
 
-7. Click on cntrl+S , automaticall C program will be generated
+7. Click on cntrl+S , automatically C program will be generated
     
 ![image](https://user-images.githubusercontent.com/36288975/226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458.png)
 
