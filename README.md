@@ -205,20 +205,20 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output screenshots of proteus  :
 ### LED OFF :
 
-![LEDoff](https://github.com/Skanthasishanth/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118298456/3c262ca5-c170-4b2b-b675-431b2a75a367)
+![265063760-3c262ca5-c170-4b2b-b675-431b2a75a367](https://github.com/Yogeshvar005/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/113497367/f4ff5dc3-a138-498e-a297-77331bb8ef0e)
+
 
 ### LED ON :
 
-![LEDon](https://github.com/Skanthasishanth/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118298456/09823298-4d62-44cf-ad24-4a75ebd79ee5)
+![265064060-09823298-4d62-44cf-ad24-4a75ebd79ee5](https://github.com/Yogeshvar005/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/113497367/b5548b39-8722-43bd-b6c0-ec5d8f1788c4)
 
 
 ## Proteus layout :
 
 
-![layout](https://github.com/Skanthasishanth/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118298456/a845e4ab-f8ed-4ccf-9611-ce816d7ef55f)
+![265064232-a845e4ab-f8ed-4ccf-9611-ce816d7ef55f](https://github.com/Yogeshvar005/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/113497367/78499bab-22be-44f4-b722-892791c3924a)
+
 
  
 ## Result :
 Interfacing a digital output and digital input with ARM microcontroller are simulated in proteus and the results are verified.
-
-
